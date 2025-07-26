@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/MovieFlix/static/css/main.e6c13ad2.css",
-    "main.js": "/MovieFlix/static/js/main.d4c22417.js",
+    "main.js": "/MovieFlix/static/js/main.1ad4dd64.js",
     "static/js/453.1b73dca2.chunk.js": "/MovieFlix/static/js/453.1b73dca2.chunk.js",
     "static/media/logo.png": "/MovieFlix/static/media/logo.169a72a0c2100771874b.png",
     "static/media/PurpleLove.jpg": "/MovieFlix/static/media/PurpleLove.13de4d623885afcc29f5.jpg",
     "index.html": "/MovieFlix/index.html",
     "main.e6c13ad2.css.map": "/MovieFlix/static/css/main.e6c13ad2.css.map",
-    "main.d4c22417.js.map": "/MovieFlix/static/js/main.d4c22417.js.map",
+    "main.1ad4dd64.js.map": "/MovieFlix/static/js/main.1ad4dd64.js.map",
     "453.1b73dca2.chunk.js.map": "/MovieFlix/static/js/453.1b73dca2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.d4c22417.js"
+    "static/js/main.1ad4dd64.js"
   ]
 }
